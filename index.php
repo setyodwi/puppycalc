@@ -107,7 +107,7 @@
 
                 </div>
                 <div class="container d-flex justify-content-center row align-items-center d-block">
-                    <label for="se" class="col-5 font-weight-bold p-2 card " style="background-color: #580000; color:white;">SE</label>
+                    <label for="se" class="col-5 font-weight-bold p-2 card " style="background-color: #580000; color:white;">Share Fee</label>
                     <div class="col-1">:</div>
                     <div class="col-1 font-weight-bold p-0">Rp</div>
                     <div class="card col font-weight-bold" style="background-color: #C33B23"> <input style="color:white;border: none;border-color: transparent; background-color: #C33B23" class="col" readonly type="number" id="se" name="se" value=<?= $se ?>></div>

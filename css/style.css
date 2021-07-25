@@ -1,0 +1,19 @@
+body {
+  font-family: "Acme", sans-serif;
+}
+
+input#batch,
+input#kr,
+input#kurs,
+input#won,
+input#bersihkr,
+input#se,
+input#dflt,
+input#ems,
+input#fee,
+input#net {
+  width: 90%;
+  text-align: right;
+  padding: 5px;
+  margin: 5px 0;
+}

@@ -33,7 +33,7 @@
     } else {
         $batch = 1;
         $kr = 0;
-        $kurs = 133000;
+        $kurs = 131000;
         $won = 0;
         // $dflt = 10000;
         // $ems = 6000;
@@ -60,7 +60,7 @@
                     <div class="col-1">:</div>
                     <div class="col-1  font-weight-bold p-0">Rp</div>
                     <div class="card col font-weight-bold" style="background-color: #506C46; color:white">
-                    <input readonly type="text" id="kurs" name="kurs" value="133000" style="background-color:#506C46; color:white; border: none; border-color: transparent; "></div>
+                    <input readonly type="text" id="kurs" name="kurs" value="131000" style="background-color:#506C46; color:white; border: none; border-color: transparent; "></div>
 
                 </div>
 
